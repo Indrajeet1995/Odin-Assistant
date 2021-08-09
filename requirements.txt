@@ -9,7 +9,7 @@ idna==2.9
 PyAudio 
 pypiwin32==223
 pyttsx3==2.88
-pywin32==227
+pywin32==301
 requests==2.23.0
 six==1.15.0
 soupsieve==2.0.1
